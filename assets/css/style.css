@@ -86,19 +86,19 @@ nav a:hover {
 }
 
 #indexHlight:hover {
-    background-color: rgb(161, 137, 0);
+    background-color: lightgoldenrodyellow;
 }
 
 #aboutHlight:hover {
-    background-color: rgb(137, 161, 1);
+    background-color: lightgreen;
 }
 
 #contactHlight:hover {
-    background-color: rgb(161, 131, 0);
+    background-color: lightsalmon;
 }
 
 #menuHlight:hover {
-    background-color: rgb(105, 161, 0);
+    background-color: lightseagreen;
 }
 
 #annoucment {
