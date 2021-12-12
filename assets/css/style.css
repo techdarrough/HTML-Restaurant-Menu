@@ -85,8 +85,29 @@ nav a:hover {
     
 }
 
-.hlight {
-    color: crimson;
+#indexHlight:hover {
+    background-color: rgb(161, 137, 0);
+}
+
+#aboutHlight:hover {
+    background-color: rgb(137, 161, 1);
+}
+
+#contactHlight:hover {
+    background-color: rgb(161, 131, 0);
+}
+
+#menuHlight:hover {
+    background-color: rgb(105, 161, 0);
+}
+
+#annoucment {
+    text-align: center;
+    text-decoration:none;
+    text-shadow: 1em;
+    font-size: medium;
+    font-weight: 100;
+    font-style: italic;
 }
 
 .footSmaller {
